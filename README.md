@@ -3,7 +3,7 @@ A guide to build un-released Gorilla Tag mods that have a github repo
 
 ## Requirements
 * [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) **USE THE FREE DOWNLOAD**
-* Some C# knowledge (Just in case)
+* C# knowledge
 
 ## Instructions
 * Download the source code of the mod you want to build
